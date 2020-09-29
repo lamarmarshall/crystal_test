@@ -12,3 +12,7 @@ end
 
 inc = 2..10
 pp inc.to_a
+
+(2..10).each do 
+	p "hi sir"
+end 
