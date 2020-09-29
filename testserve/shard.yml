@@ -1,0 +1,16 @@
+name: testserve
+version: 0.1.0
+
+authors:
+  - lamar marshall <lamarmarshall75@outlook.com>
+
+targets:
+  testserve:
+    main: src/testserve.cr
+
+crystal: 0.34.0
+
+license: MIT
+dependencies:
+  kemal:
+    github: kemalcr/kemal
