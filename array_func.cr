@@ -12,3 +12,6 @@ end
 p arr.includes?(5)
 
 p arr.find{ |i| i > 60}
+
+names = [ "arizona", "new mexico", "maine", "new york", "new hampshire"]
+p names.grep(/new/)
