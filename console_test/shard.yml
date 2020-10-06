@@ -1,0 +1,17 @@
+name: console_test
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  console_test:
+    main: src/console_test.cr
+
+crystal: 0.35.1
+
+license: MIT
+dependencies:
+    lime:
+        github: r00ster91/lime
+        

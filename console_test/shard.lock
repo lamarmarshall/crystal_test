@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  lime:
+    git: https://github.com/r00ster91/lime.git
+    version: 0.9.7+git.commit.9d8e7c9c169c2e78e00227047b728af632f494cf
+
+  stumpy_core:
+    git: https://github.com/l3kn/stumpy_core.git
+    version: 1.9.1
+
+  stumpy_png:
+    git: https://github.com/stumpycr/stumpy_png.git
+    version: 5.0.0
+
